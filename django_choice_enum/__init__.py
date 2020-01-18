@@ -1,0 +1,1 @@
+from django_choice_enum.choice_enum import ChoiceEnum
